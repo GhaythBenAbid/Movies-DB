@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class FooterComponent {
 
   // socialData = [
-  //   {url: 'https://twitter.com/Manel Sidaoui', name: 'Twitter', img: './assets/svg/twitter.svg'},
-  //   {url: 'https://github.com/Manel Sidaoui', name: 'Github', img: './assets/svg/github.svg'}
+  //   {url: 'https://twitter.com/Louay Dhkar', name: 'Twitter', img: './assets/svg/twitter.svg'},
+  //   {url: 'https://github.com/Louay Dhkar', name: 'Github', img: './assets/svg/github.svg'}
   // ];
 
   constructor() { }
